@@ -1,5 +1,6 @@
 # Heatshock-Model
 Titration Model of Hsf1 Dynamics
+
 <br/>
 Related Publications:
 1) X Zheng, J Krakowiak, N Patel, A Beyzavi, J Ezike, AS Khalil, D Pincus. "Dynamic control of Hsf1 during heat shock by a chaperone switch and phosphorylation." Elife (2016)
